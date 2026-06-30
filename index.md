@@ -1,4 +1,4 @@
-# NeoRiemannian
+# Microtonal Lab
 
 **Microtonal Music Studio for iOS**
 
