@@ -1,10 +1,10 @@
-# Privacy Policy — NeoRiemannian
+# Privacy Policy — Microtonal Lab
 
 **Last updated: June 30, 2026**
 
 ## Overview
 
-NeoRiemannian is a microtonal music studio for iOS. This privacy policy explains how we handle your information.
+Microtonal Lab is a microtonal music studio for iOS. This privacy policy explains how we handle your information.
 
 ## Data Collection
 
