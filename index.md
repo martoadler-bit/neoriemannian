@@ -1,6 +1,8 @@
-# Neo-Riemannian — Set Theory
+# NeoRiemannian
 
-An interactive tool for exploring Pitch Class Set Theory on iOS.
+**Microtonal Music Studio for iOS**
 
-- [Privacy Policy](privacy.md)
-- [Support](support.md)
+Explore alternate tuning systems, build custom scales, and compose music beyond the 12-tone grid.
+
+- [Support](support)
+- [Privacy Policy](privacy)
